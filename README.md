@@ -19,6 +19,8 @@ https://www.kernel.org/doc/html/latest/process/7.AdvancedTopics.html
 
 https://www.kernel.org/doc/html/latest/process/code-of-conduct.html
 
-Essas 8 primeiras fontes do [Kernel.org](https://www.kernel.org/doc/html/latest/) são confiáveis pois ela é feita por membros da comunidade Linux que desenvolvem o Kernel e desenvolvem o mesmo em conjunto.
+Essas 8 primeiras fontes do [Kernel.org](https://www.kernel.org/doc/html/latest/) são confiáveis pois ela é feita pelos próprios membros da comunidade Linux que desenvolvem o Kernel e desenvolvem o mesmo em conjunto.
 
-Linux Device Drivers, third edition - 
+Linux Device Drivers, third edition - Este livro em seu conteúdo mostra de forma robusta um caminho para se tornar um hacker do kernel do Linux.
+
+
