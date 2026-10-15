@@ -28,3 +28,13 @@ Entendendo e Dominando o Linux.pdf - Este livro é guia robusto que ensina desde
 Introdution to Linux(MIT).pdf - Este é um pequeno guia introdutório de Linux onde o mesmo ensina alguns comandos do Linux que são úteis para os usuários na configuração do dispositivo. Também considero confiável por ser uma fonte ligada ao MIT.
 
 Apostila Linux IFSC.pdf - É um livro que fala instrui desde a configuração do Kernel, do histórico do Linux e de como configurar a os arquivos do sistema Linux, outro motivo para confiar no documento é a fonte do arquivo ser da IFSC.
+
+Linux Introdução UFLA.pdf - É um livro introdutório sobre o Linux que é ligado ao pessoal da Universidade Federal de Lavras, onde fala sobre desde a história do Linux e comandos básicos do Linux.
+
+Hands on Guide(Matchtelt Garrels).pdf - É um livro robusto que instrui desde como configurar o sistema e comandos de configuração do sistema Linux.
+
+https://www.linuxpro.com.br/dl/guia_500_comandos_Linux.pdf - É um livro que mostra 500 comandos do Linux para instruir o usuário sobre como usar o sistema operacional.
+
+Fontes de Vídeo:
+
+
