@@ -57,3 +57,5 @@ Essas duas fontes abaixo, falam sobre comandos utilizados no Linux, onde os cons
 https://www.youtube.com/watch?v=VnbP0VKkrWU - MOST Frequently USED LINUX COMMANDS in JOB for Beginners [HINDI]
 
 https://www.youtube.com/watch?v=Byx4sgLR88E - Linux for Beginners in One Video 🔥 100 Commands Explanation [HINDI] | MPrashant
+
+**Diretrizes dadas**: O notebook foi instruído a se comportar como um especialista em Linux que cita as fontes utilizadas em cada resposta.
