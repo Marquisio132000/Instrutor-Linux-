@@ -42,6 +42,7 @@ Esse vídeo mostra 30 comandos para se utilizar no terminal Linux, achei ele con
 
 https://www.youtube.com/watch?v=ncBVf-3oMME - 99+ CONCEITOS LINUX que você deveria SABER: Confiável pois é um vídeo que contem conceitos básicos do Linux.
 
+
 As 3 fontes abaixo são guias de como instalar diferentes versões do Linux no computador, os considero confiáveis, pois há diversos comentários agradecendo pelo vídeo dizendo que funcionou da forma devida em suas respectivas máquinas:
 
 https://www.youtube.com/watch?v=QrsDuBwgF9Y - 
@@ -50,3 +51,9 @@ COMO INSTALAR LINUX UBUNTU JUNTO DO WINDOWS 11 COM DUAL BOOT FÁCIL
 https://www.youtube.com/watch?v=3JgpRyPuPNM - Como Instalar LINUX (Ubuntu) no PC ou Notebook — Passo a Passo Rápido
 
 https://www.youtube.com/watch?v=NKkWNPJVZa0 - FÁCIL! Como Instalar o Linux no PC | Instale o Linux no seu PC de Forma Super fácil e Segura !
+
+Essas duas fontes abaixo, falam sobre comandos utilizados no Linux, onde os considero confiáveis, pois muitos comentários nos vídeos comentaram positivamente sobre as instruções contidas neles:
+
+https://www.youtube.com/watch?v=VnbP0VKkrWU - MOST Frequently USED LINUX COMMANDS in JOB for Beginners [HINDI]
+
+https://www.youtube.com/watch?v=Byx4sgLR88E - Linux for Beginners in One Video 🔥 100 Commands Explanation [HINDI] | MPrashant
