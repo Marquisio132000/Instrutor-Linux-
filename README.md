@@ -19,7 +19,7 @@ https://www.kernel.org/doc/html/latest/process/7.AdvancedTopics.html
 
 https://www.kernel.org/doc/html/latest/process/code-of-conduct.html
 
-Essas 8 primeiras fontes do [Kernel.org](https://www.kernel.org/doc/html/latest/) são confiáveis pois ela é feita pelos próprios membros da comunidade Linux que desenvolvem o Kernel e desenvolvem o mesmo em conjunto.
+Essas 8 primeiras fontes do [Kernel.org](https://www.kernel.org/doc/html/latest/) acima, são confiáveis pois ela é feita pelos próprios membros da comunidade Linux que desenvolvem o Kernel em conjunto.
 
 Linux Device Drivers, third edition.pdf - Este livro em seu conteúdo mostra de forma robusta um caminho para se tornar um hacker do kernel do Linux. 
 
@@ -37,4 +37,16 @@ https://www.linuxpro.com.br/dl/guia_500_comandos_Linux.pdf - É um livro que mos
 
 Fontes de Vídeo:
 
+https://www.youtube.com/watch?v=QZ2nyxzZXPY - 30 Comandos do Terminal Linux BÁSICOS que você PRECISA SABER para ser um HACKER
+Esse vídeo mostra 30 comandos para se utilizar no terminal Linux, achei ele confiável por ser algo prático e funcional
 
+https://www.youtube.com/watch?v=ncBVf-3oMME - 99+ CONCEITOS LINUX que você deveria SABER: Confiável pois é um vídeo que contem conceitos básicos do Linux.
+
+As 3 fontes abaixo são guias de como instalar diferentes versões do Linux no computador, os considero confiáveis, pois há diversos comentários agradecendo pelo vídeo dizendo que funcionou da forma devida em suas respectivas máquinas:
+
+https://www.youtube.com/watch?v=QrsDuBwgF9Y - 
+COMO INSTALAR LINUX UBUNTU JUNTO DO WINDOWS 11 COM DUAL BOOT FÁCIL
+
+https://www.youtube.com/watch?v=3JgpRyPuPNM - Como Instalar LINUX (Ubuntu) no PC ou Notebook — Passo a Passo Rápido
+
+https://www.youtube.com/watch?v=NKkWNPJVZa0 - FÁCIL! Como Instalar o Linux no PC | Instale o Linux no seu PC de Forma Super fácil e Segura !
